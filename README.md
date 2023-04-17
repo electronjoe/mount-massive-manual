@@ -133,3 +133,4 @@ I do this every time we stop - just to verify we re-locked everything and are in
 - Test wheel hub temperature by hand (likely warm to touch but not unbearably hot)
   - If unbearably hot -- bearing issues
 - Double check trailer hook-up from Departure Checklist
+- Re verify all locks are locked (manually try to open both cabin doors, both rear galley handles, and the tongue box)
