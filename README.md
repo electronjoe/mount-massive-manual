@@ -5,10 +5,14 @@
     - [Electrical](#electrical)
     - [Hitch](#hitch)
   - [Weight Distribution](#weight-distribution)
+  - [Electric Brake Controller Settings](#electric-brake-controller-settings)
   - [Checklists](#checklists)
     - [Departure Checklist](#departure-checklist)
     - [Arrival Checklist](#arrival-checklist)
     - [Road Stop Checklist](#road-stop-checklist)
+  - [Detailed Documentation](#detailed-documentation)
+    - [Electrical](#electrical-1)
+    - [Replacement Parts](#replacement-parts)
 
 
 ## Vehicle Needs
@@ -32,6 +36,12 @@
 
 - You want 10-15% of trailer weight to be on the tongue for trailer stability safety
 - But you also need to pay attention to your vehicle hitch weight constraints (e.g. highlander 350 lb) 
+
+## Electric Brake Controller Settings
+
+- Follow instructions for your brake controller to calibrate the gain (strength)
+- You do not want to be dragging tires, ever
+  - This will rapidly wear out the $300 ea all-terrain tires
 
 ## Checklists
 
@@ -77,6 +87,8 @@
   - Confirm tongue box lock by hand (attempt to open)
 - Before driving
   - Walk around car and trailer to ensure everything is secure and nothing is still attached to the trailer or car (e.g. laundry line!)
+  - Check tire pressure (at least visually) on trailer and tow vehicle
+  - Check propane tank valve is off
   - Check gas on vehicle
   - Check trailer lights (turn signals, emergency blinkers)
   - Verify brake controller is set to desired gain
@@ -134,3 +146,17 @@ I do this every time we stop - just to verify we re-locked everything and are in
   - If unbearably hot -- bearing issues
 - Double check trailer hook-up from Departure Checklist
 - Re verify all locks are locked (manually try to open both cabin doors, both rear galley handles, and the tongue box)
+- Check tire pressure (at least visually) on trailer and tow vehicle
+
+
+## Detailed Documentation
+
+### Electrical
+
+See electrical diagram print-out in this manual. I will work on transcribing the diagram to this markdown document at a later date.
+
+### Replacement Parts
+
+- Door stops for cabin doors (mounted on exterior)
+  - Deltana Enterprises Inc WB100U26D
+
