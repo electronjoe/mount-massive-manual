@@ -159,4 +159,8 @@ See electrical diagram print-out in this manual. I will work on transcribing the
 
 - Door stops for cabin doors (mounted on exterior)
   - Deltana Enterprises Inc WB100U26D
-
+- Greas seals for bearing hand packing
+  - P104{6|8|5}9 TB 1.719 2.561 0.500
+  - Might be Dexter PN 010-019-00
+  - NAPA PN NOS 17144
+- Hubs are Dexter 8-247's with 5 bolts
