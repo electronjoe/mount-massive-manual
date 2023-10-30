@@ -11,7 +11,7 @@
     - [Arrival Checklist](#arrival-checklist)
     - [Road Stop Checklist](#road-stop-checklist)
   - [Detailed Documentation](#detailed-documentation)
-    - [Electrical](#electrical-1)
+    - [Electrical Wiring Diagrams and Troubleshooting](#electrical-wiring-diagrams-and-troubleshooting)
     - [Replacement Parts](#replacement-parts)
 
 
