@@ -151,9 +151,15 @@ I do this every time we stop - just to verify we re-locked everything and are in
 
 ## Detailed Documentation
 
-### Electrical
+### Electrical Wiring Diagrams and Troubleshooting
 
-See electrical diagram print-out in this manual. I will work on transcribing the diagram to this markdown document at a later date.
+- [Colorado Teardrops Electrical Troubleshooting Doc](documentation/electrical_troubleshooting.pdf)
+
+As Colorado Teardrops has gone out of business, I feel it's appropriate to post Proprietary wiring documentation for owners of now-unsupported trailers. I would note I have two electrical diagrams and they don't seem to be entirely in agreement (The second diagram is perhaps just more detailed?)
+
+![Colorado Teardrops Wiring Diagram](documentation/colorado_teardrops_wiring_diagram.png)
+![Colorado Teardrops Wiring Diagram](documentation/colorado_teardrops_wiring_diagram_2.png)
+
 
 ### Replacement Parts
 
