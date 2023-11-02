@@ -163,8 +163,14 @@ As Colorado Teardrops has gone out of business, I feel it's appropriate to post 
 
 ### Replacement Parts
 
+- Rivets
+  - Sealing Blind Rivets, Dome Head, with Aluminum Mandrel, 3/16" Diameter, 0.906" Long
+    - So far these work for: licence plate holder, door swing stop, interior cabin wood
+    - Available [McMaster-Carr](https://www.mcmaster.com/products/rivets/aluminum-domed-head-sealing-blind-rivets/) PN 	97524A151
 - Door stops for cabin doors (mounted on exterior)
-  - Deltana Enterprises Inc WB100U26D
+  - [Deltana Enterprises Inc WB100U26D](https://deltana.net/catalog/bumpers-and-stops/viewing/flush-mounted-bumpers/218_flush-bumper-1-diam)
+    - Sold in box of 50, need to find another provider
+    - [The Builder Supply One-Off Offering](https://thebuilderssupply.com/deltana-wb100u26d-flush-bumper-1-diam-brushed-chrome)
 - Greas seals for bearing hand packing
   - P104{6|8|5}9 TB 1.719 2.561 0.500
   - Might be Dexter PN 010-019-00
