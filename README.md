@@ -13,7 +13,7 @@
   - [Detailed Documentation](#detailed-documentation)
     - [Electrical Wiring Diagrams and Troubleshooting](#electrical-wiring-diagrams-and-troubleshooting)
     - [Replacement Parts](#replacement-parts)
-
+  - [Projects](#projects)
 
 ## Vehicle Needs
 
@@ -176,3 +176,10 @@ As Colorado Teardrops has gone out of business, I feel it's appropriate to post 
   - Might be Dexter PN 010-019-00
   - NAPA PN NOS 17144
 - Hubs are Dexter 8-247's with 5 bolts
+- Rear Tail Lights
+  - I believe these are: [Peterson Mfg PM V423XR-4](https://petersonlightsandharnesses.com/product/led-stop-turn-tail-lamp-167/) Red LED Surface Mount Oval Stop Turn & Tail Light Kit
+
+
+## Projects
+
+- See [Flexible Solar Panel Install: CT Summit Pinnacle](https://docs.google.com/document/d/1VqugP74evrJwMfiPEh3DOWKwLk55VsfPvJwvy_L_j9s/edit?fbclid=IwAR3I6Ddj3R5tsISHcTima_latvJ9KsiMKm-Mb7YubIW8bShb4lf9WgCsiwo#heading=h.nqo1jy5fwdxh)
