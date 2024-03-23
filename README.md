@@ -178,7 +178,8 @@ As Colorado Teardrops has gone out of business, I feel it's appropriate to post 
 - Hubs are Dexter 8-247's with 5 bolts
 - Rear Tail Lights
   - I believe these are: [Peterson Mfg PM V423XR-4](https://petersonlightsandharnesses.com/product/led-stop-turn-tail-lamp-167/) Red LED Surface Mount Oval Stop Turn & Tail Light Kit
-
+- Tires
+  - Delivered from CO Teardrops with BF Goodrich baja champion lt 217/75 r15
 
 ## Projects
 
