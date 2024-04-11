@@ -14,6 +14,7 @@
     - [Electrical Wiring Diagrams and Troubleshooting](#electrical-wiring-diagrams-and-troubleshooting)
     - [Replacement Parts](#replacement-parts)
   - [Projects](#projects)
+  - [Odometer](#odometer)
 
 ## Vehicle Needs
 
@@ -184,3 +185,55 @@ As Colorado Teardrops has gone out of business, I feel it's appropriate to post 
 ## Projects
 
 - See [Flexible Solar Panel Install: CT Summit Pinnacle](https://docs.google.com/document/d/1VqugP74evrJwMfiPEh3DOWKwLk55VsfPvJwvy_L_j9s/edit?fbclid=IwAR3I6Ddj3R5tsISHcTima_latvJ9KsiMKm-Mb7YubIW8bShb4lf9WgCsiwo#heading=h.nqo1jy5fwdxh)
+
+## Odometer
+
+Each of these trips had SO MANY amazing stops and visits - but we'll outline broad strokes where we drove.
+
+Total Trailer Mileage: 22,200 miles
+
+- June '22 Great American / Canadian Road Trip
+  - **60 nights in teardrop**
+  - **8,900 miles**
+  - Rhode Island to Niagara Falls
+  - Bruce penninsula and national parks in ON
+  - Canadian Great Lakes
+  - Family reunion in MN
+  - Custer State Park SD
+  - Wyoming mountains
+  - Up into Banff and Jasper National Parks, Canada
+  - Washington state visit
+  - Idaho Sawtooth mountain range + Craters of the Moon
+  - Southwest National Park Bonanza (many)
+  - Tucson AZ temporary storage of Trailer
+- Jan '23 Great American Road Trip Continued
+  - **60 nights in teardrop**
+  - **7_000** miles
+  - Tucson AZ to Boulder for Teardrop maintenance at CO Teardrops
+  - Boulder to Austin TX
+  - Austin TX to Dallas TX
+  - Space Center Houston
+  - Galveston Island
+  - Gulf coast states
+  - Florida zig-zag / many state parks and springs
+  - Return to Rhode Island
+- May '23 Duluth Visit
+  - **21 nights in teardrop**
+  - **3,100 miles**
+  - Rhode Island to Indianapolis
+  - Indianapolis to Peoria, Illinois
+  - Peoria to Duluth MN
+  - Duluth to Ottawa, Canada
+  - Ottawa to Rhode Island
+- Summer '23 Canada's Maritimes
+  - **21 nights in teardrop**
+  - **2,500 miles**
+  - Rhode Island to Acadia National Park
+  - Acadia to Bay of Fundy
+  - Bay of Fundy to Prince Edward Island (PEI)
+  - PEI to Nova Scotia's Cape Breton Highlands
+  - Cape Breton Highlands back to Rhode Island
+- April '24 Total Eclipse
+  - **2 nights in teardrop**
+  - **700 miles**
+  - Rhode Island to Northern Vermont for April 8th total ecipse
