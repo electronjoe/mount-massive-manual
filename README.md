@@ -177,6 +177,8 @@ As Colorado Teardrops has gone out of business, I feel it's appropriate to post 
   - Might be Dexter PN 010-019-00
   - NAPA PN NOS 17144
 - Hubs are Dexter 8-247's with 5 bolts
+- Electric Brakes are Dexter Nev-R-Adjust Electric Trailer Brakes - 10" 3.5k
+  - Dexter part 023-469-00
 - Rear Tail Lights
   - I believe these are: [Peterson Mfg PM V423XR-4](https://petersonlightsandharnesses.com/product/led-stop-turn-tail-lamp-167/) Red LED Surface Mount Oval Stop Turn & Tail Light Kit
 - Tires
@@ -190,7 +192,7 @@ As Colorado Teardrops has gone out of business, I feel it's appropriate to post 
 
 Each of these trips had SO MANY amazing stops and visits - but we'll outline broad strokes where we drove.
 
-Total Trailer Mileage: 22,200 miles
+Total Trailer Mileage: 24,200 miles
 
 - June '22 Great American / Canadian Road Trip
   - **60 nights in teardrop**
@@ -237,3 +239,41 @@ Total Trailer Mileage: 22,200 miles
   - **2 nights in teardrop**
   - **700 miles**
   - Rhode Island to Northern Vermont for April 8th total ecipse
+- May '24 Ashville NC
+  - **5 nights in teardrop**
+  - **2,000 miles**
+
+## Repairs
+
+- Trailer delivered with one rivet un-installed in sleeping foot well of cabin interrior
+  - Purchased rivet gun and affixed rivet, no issues since
+- Sky-light leak repair @ 11k miles
+  - Very minimal interrior wood damage (not worth repairing)
+  - Colorado teardrop confirmed manufacturing defect, re-installed sky light
+  - Claim was that sky light was never applied with adhesive / vacuume bag sealed
+  - No issues since repair
+- Galley minor drip / leak and lower rear wood damage @ 22k miles
+  - Water-testing with bucket proved water was getting in
+    - Through license plate holder
+    - Through tail lights
+    - Along lower lip of the galley lid (pooling and running around the lid)
+  - All three were repaired and re-verified by myself using bucket test
+    - Cleaned / re-applied liberal Butyl tape to license plate holder and tail lights
+    - Striopped lower liop of galley lid and then re-calked with top-rated RV calk
+  - Did not repair lower galley wood (cosmetic)
+  - No further leaks since repairs
+
+## Maintenance
+
+- TODO Fill in earlier maintenance
+- 11,000 miles (Jan '23)
+  - Colorado Teardrops 10k mile maintenance
+  - Wheel rotation
+  - Bearing inspection and re-packing
+  - Brake inspection
+  - Water re-test
+- 19,000 miles (May '23)
+  - Tire rotation and wheel bearing re-packing
+- 22,400 miles (May '24)
+  - Tire rotation and wheel bearing re-packing
+  
