@@ -172,7 +172,7 @@ As Colorado Teardrops has gone out of business, I feel it's appropriate to post 
   - [Deltana Enterprises Inc WB100U26D](https://deltana.net/catalog/bumpers-and-stops/viewing/flush-mounted-bumpers/218_flush-bumper-1-diam)
     - Sold in box of 50, need to find another provider
     - [The Builder Supply One-Off Offering](https://thebuilderssupply.com/deltana-wb100u26d-flush-bumper-1-diam-brushed-chrome)
-- Greas seals for bearing hand packing
+- Grease seals for bearing hand packing
   - P104{6|8|5}9 TB 1.719 2.561 0.500
   - Might be Dexter PN 010-019-00
   - NAPA PN NOS 17144
@@ -182,7 +182,13 @@ As Colorado Teardrops has gone out of business, I feel it's appropriate to post 
 - Rear Tail Lights
   - I believe these are: [Peterson Mfg PM V423XR-4](https://petersonlightsandharnesses.com/product/led-stop-turn-tail-lamp-167/) Red LED Surface Mount Oval Stop Turn & Tail Light Kit
 - Tires
-  - Delivered from CO Teardrops with BF Goodrich baja champion lt 217/75 r15
+  - Delivered from CO Teardrops with LT215/75R-15 BFGoodrich All-Terrain T/A KO2 C
+- Calking
+  - I'm told that CO Teardrops used Dowsil 791 and butyl tape
+  - Airstream forums and my Father in Law recommend avoiding silicone due to terrible removal pains (solvents don't work)
+  - Airstream forums like Capt. Tolley's Creeping Crack Cure for rivets and small seams
+  - Airstream forums like Tempro 626 or 635
+    - See [Link](https://www.airforums.com/forums/f44/aiming-for-dry-trempro-parbond-elastomeric-help-118743.html)
 
 ## Projects
 
@@ -192,7 +198,7 @@ As Colorado Teardrops has gone out of business, I feel it's appropriate to post 
 
 Each of these trips had SO MANY amazing stops and visits - but we'll outline broad strokes where we drove.
 
-Total Trailer Mileage: 24,200 miles
+Total Trailer Mileage: 28,900 miles
 
 - June '22 Great American / Canadian Road Trip
   - **60 nights in teardrop**
@@ -242,6 +248,12 @@ Total Trailer Mileage: 24,200 miles
 - May '24 Ashville NC
   - **5 nights in teardrop**
   - **2,000 miles**
+- June / July '24 Newfoundland
+  - **39 nights in teardrop**
+  - **4,700 miles**
+  - Saint Lawrence River / Quebec
+  - Newfoundland! Fantastic.
+  - Maine for the ossippee bluegrass music festival
 
 ## Repairs
 
@@ -265,7 +277,6 @@ Total Trailer Mileage: 24,200 miles
 
 ## Maintenance
 
-- TODO Fill in earlier maintenance
 - 11,000 miles (Jan '23)
   - Colorado Teardrops 10k mile maintenance
   - Wheel rotation
@@ -276,4 +287,6 @@ Total Trailer Mileage: 24,200 miles
   - Tire rotation and wheel bearing re-packing
 - 22,400 miles (May '24)
   - Tire rotation and wheel bearing re-packing
+- 28,900 miles (July '24)
+  - New tires (2x LT215/75R-15 BFGoodrich All-Terrain T/A KO2 C)
   
