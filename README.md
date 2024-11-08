@@ -36,7 +36,7 @@
 ## Weight Distribution
 
 - You want 10-15% of trailer weight to be on the tongue for trailer stability safety
-- But you also need to pay attention to your vehicle hitch weight constraints (e.g. highlander 350 lb) 
+- But you also need to pay attention to your vehicle hitch weight constraints (e.g. highlander 350 lb)
 
 ## Electric Brake Controller Settings
 
@@ -137,7 +137,6 @@
     - Blow OUT of cabin to cool cabin and prevent rain from getting in through vent
     - Blow IN to cabin when running heater to mix air and draw in light fresh air
     - Adjust side windows and / or top vent crank to achieve air flow desired
-  - 
 
 ### Road Stop Checklist
 
@@ -185,10 +184,21 @@ As Colorado Teardrops has gone out of business, I feel it's appropriate to post 
   - Delivered from CO Teardrops with LT215/75R-15 BFGoodrich All-Terrain T/A KO2 C
 - Calking
   - I'm told that CO Teardrops used Dowsil 791 and butyl tape
-  - Airstream forums and my Father in Law recommend avoiding silicone due to terrible removal pains (solvents don't work)
-  - Airstream forums like Capt. Tolley's Creeping Crack Cure for rivets and small seams
-  - Airstream forums like Tempro 626 or 635
-    - See [Link](https://www.airforums.com/forums/f44/aiming-for-dry-trempro-parbond-elastomeric-help-118743.html)
+  - I personally have used [Sika Sikaflex 221](https://usa.sika.com/en/industry/rv-repair-solutions/sealing-applications/awning-components/sikaflex-221.html)
+    - I used painters tape before application to keep things under control and look clean
+    - So far so good (replaced calk on all the aluminum lips around middle of the Colorado Teardrop)
+    - I used a plastic scraper to remove prior ?Dowsil 791? before painters tape and application
+  - Other opinions / options
+    - Airstream forums and my Father in Law recommend avoiding silicone due to terrible removal pains (solvents don't work)
+    - Airstream forums like Capt. Tolley's Creeping Crack Cure for rivets and small seams
+    - Airstream forums like TremPro 626 or 635
+      - See [Link](https://www.airforums.com/forums/f44/aiming-for-dry-trempro-parbond-elastomeric-help-118743.html)
+    - Another [Good Article on Sealants](https://www.airgear.store/blogs/maintenance-and-inspection/sealants-a-sticky-subject-1)
+      - "First off, the riveted seams of an Airstream should never need re-sealing, unless the body has been physically damaged (dented). For years Airstream has been using Acryl-R Seam Sealer, and along with the rivets it amounts to a permanent seal."
+        - It seems this may also be used for seams that are abutted? Maybe.
+      - For areas requiring flex / "Popular choices include Sikaflex 221, TremPro 635, Vulkem 116, AdSeal, and others."
+    - Look into Eternabond spray cleaner pre-treatment
+    - Also review large [Sealants Summary](https://www.airforums.com/forums/f456/sealants-summary-116214-17.html) on Airforums
 
 ## Projects
 
@@ -198,7 +208,7 @@ As Colorado Teardrops has gone out of business, I feel it's appropriate to post 
 
 Each of these trips had SO MANY amazing stops and visits - but we'll outline broad strokes where we drove.
 
-Total Trailer Mileage: 28,900 miles
+Total Trailer Mileage: 29,700 miles
 
 - June '22 Great American / Canadian Road Trip
   - **60 nights in teardrop**
@@ -254,6 +264,10 @@ Total Trailer Mileage: 28,900 miles
   - Saint Lawrence River / Quebec
   - Newfoundland! Fantastic.
   - Maine for the ossippee bluegrass music festival
+- October '24 New York Finger Lakes
+  - **3 nights in teardrop**
+  - **800 miles**
+  - Fantastic wineries and pretty hikes
 
 ## Repairs
 
@@ -289,4 +303,7 @@ Total Trailer Mileage: 28,900 miles
   - Tire rotation and wheel bearing re-packing
 - 28,900 miles (July '24)
   - New tires (2x LT215/75R-15 BFGoodrich All-Terrain T/A KO2 C)
-  
+- 29,700 miles (November '24)
+  - Stripped existing calk around teardrop aluminum lip (transition to diamond plate)
+  - Replaced with Sikaflex 221 calk
+  - Inspected remaining sealants, rooftop looks good for another year at least
